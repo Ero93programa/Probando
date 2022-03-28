@@ -12,6 +12,9 @@ public class Proyectillo {
         System.out.println("Otra línbea de texto");
         
         System.out.println("Mayonesa");
+
+        System.out.println("Segundo día");
+
     }
     
 }
