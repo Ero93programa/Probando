@@ -17,6 +17,10 @@ public class Proyectillo {
         
         System.out.println("Desde Linux");
 
+        System.out.println("Tortilla SIEMPRE CON CEBOLLA");
+
+        System.out.println("Kebab SIEMPRE COMPLETO");
+
     }
     
 }
